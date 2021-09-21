@@ -1,3 +1,9 @@
+# App Url is 
+
+https://fishermanbhars.github.io/todo-app/#/
+
+This project was created based off a tutorial by https://ibaslogic.com/react-tutorial-for-beginners/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
